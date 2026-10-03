@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "roosevekt",
+    "apellido": "castillo",
+    "email": "tonycastillo2204@mail.com",
+    "carnet": "54321",
+    "notas": {
+      "matematicas": [
+        2.0
+      ]
+    },
+    "materias": [
+      "matematicas"
+    ]
+  }
+]

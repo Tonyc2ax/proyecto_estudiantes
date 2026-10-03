@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "nombre": "roosevelt",
+    "apellido": "castillo",
+    "email": "tonnycastillo2204@gmail.com",
+    "carnet": "4883",
+    "notas": {},
+    "materias": []
+  },
+  {
+    "id": 2,
+    "nombre": "tony",
+    "apellido": "gomez",
+    "email": "tonycasti@gmail.com",
+    "carnet": "12345",
+    "notas": {
+      "programacion": [
+        19.0
+      ]
+    },
+    "materias": [
+      "programacion"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "roosevelt",
+    "apellido": "castillo",
+    "email": "tony223445@gmail.com",
+    "carnet": "43211",
+    "notas": {},
+    "materias": []
+  }
+]
